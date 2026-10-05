@@ -1,0 +1,4 @@
+{
+  "scripts": ["typecheck", "build"],
+  "description": "Запрещена индексация dev-окружений через X-Robots-Tag; robots.txt разрешает обход для чтения заголовка."
+}
